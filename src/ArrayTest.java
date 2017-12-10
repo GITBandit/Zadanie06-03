@@ -7,7 +7,7 @@ public class ArrayTest {
 
         ArrayComparator comparator = new ArrayComparator();
 
-        System.out.println(comparator.comp(tabOne,tabTwo));
+        System.out.println(comparator.compare(tabOne,tabTwo));
 
 
 
